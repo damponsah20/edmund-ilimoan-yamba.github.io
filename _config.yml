@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Land, Aerosol, and Cloud Interactions Group
-email: bee.leung@wisc.edu
-description: 'PI: Gabrielle "Bee" Leung <br/> Department of Atmospheric and Oceanic Sciences<br/>University of Wisconsin–Madison'
+title: Climate and Health Group
+email: eiyamba@knust.edu.gh
+description: 'PI: Edmund Ilimoan Yamba <br/> Department of Meteorology and Climate Science<br/>Kwame Nkrumah University of Science and Technology'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://grleung.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  grleung
-orcid: 0000-0003-2216-6207
+url: "http://yamba.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  yamba
+orcid: 0000-0002-0486-9921
 
 # Build settings
 theme: minima
@@ -40,7 +40,7 @@ pagination:
   per_page: 5
   permalink: '/page/:num/'
 
-author: Gabrielle "Bee" Leung
+author: Edmund Ilimoan Yamba
 
 collections:
   news:
