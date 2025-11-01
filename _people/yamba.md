@@ -8,16 +8,16 @@ current_position: |
   <em>Kwame Nkrumah University of Science and Technology (KNUST)</em> <br/>
   Private Mail Bag, University Post Office <br/>
   Kumasi, Ghana
-phd: Ph.D., Meteorology and Climate Science, <em>University of Cologne, Germany</em>
-ms: M.Sc., Geophysics, <em>Kwame Nkrumah University of Science and Technology (KNUST)</em>
-bs: B.Sc., Physics, <em>Kwame Nkrumah University of Science and Technology (KNUST)</em>
-importance: 1
-img:"/assets/img/yamba.jpg"
+phd:Ph.D., Meteorology and Climate Science, <em>University of Cologne, Germany</em>
+ms:M.Sc., Geophysics, <em>Kwame Nkrumah University of Science and Technology (KNUST)</em>
+bs:B.Sc., Physics, <em>Kwame Nkrumah University of Science and Technology (KNUST)</em>
+importance:1
+img:"assets/img/Yamba-Picture.jpg"
 orcid:https://orcid.org/0000-0002-0486-9921 
 google_scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=Br4DbcIAAAAJ&hl=en&oi=ao)
 researchgate: [https://www.researchgate.net/](https://www.researchgate.net/profile/Edmund-Yamba-2)
 linkedin: [https://www.linkedin.com/](https://www.linkedin.com/in/edmund-ilimoan-yamba-3186945a/?originalSubdomain=gh)
-cv: "/assets/docs/Yamba_CV.pdf"
+cv:"/assets/docs/Yamba_CV.pdf"
 ---
 Dr. **Edmund Ilimoan Yamba** is a Senior Lecturer and Research Scientist in the Department of Meteorology and Climate Science at the **Kwame Nkrumah University of Science and Technology (KNUST)**, Kumasi, Ghana. He holds a **Bachelor of Science (BSc)** degree in Physics and a **Master of Science (MSc)** degree in Geophysics, both from KNUST. He earned his **Doctorate (PhD)** in Meteorology and Climate Science from the **University of Cologne, Germany**. Since joining the Department in January 2018, Dr. Yamba has played a pivotal role in teaching, research, and community service. He currently serves as the **Examination Officer** and **Postgraduate Studies Coordinator** for the Department.  
 
