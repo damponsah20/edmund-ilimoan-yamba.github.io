@@ -4,12 +4,6 @@ layout: home
 list_title: 'news'
 ---
 
-<!-- Announcement Box -->
-<div style="
-  background-color: $lm-background-color;---
-layout: home
-list_title: 'news'
----
 
 <div style=" background-color: $lm-background-color; border: 2px solid #006B3F; padding: 20px; margin-top: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(41, 39, 40, 0.1); font-size: 1.2rem;">
   <b>We currently do not have any openings but open to collaborations.</b>
