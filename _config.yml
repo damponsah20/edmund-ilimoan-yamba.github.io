@@ -23,7 +23,7 @@ email: eiyamba@knust.edu.gh
 description: 'PI: Edmund Ilimoan Yamba <br/> Department of Meteorology and Climate Science<br/>Kwame Nkrumah University of Science and Technology'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://yamba.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  yamba
+github_username: yamba
 orcid: 0000-0002-0486-9921
 
 # Build settings
@@ -40,7 +40,7 @@ pagination:
   per_page: 5
   permalink: '/page/:num/'
 
-author: Edmund Ilimoan Yamba
+author:Edmund Ilimoan Yamba
 
 collections:
   news:
