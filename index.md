@@ -7,14 +7,13 @@ list_title: 'news'
 <!-- Announcement Box -->
 <div style="
   background-color: #E6F4F1;
-  border: 2px solid #4A9C8C;
+  border: 2px solid #B7381F;
   padding: 20px;
   margin-top: 20px;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 50, 60, 0.1);
+  box-shadow: 0 4px 8px rgba(41, 39, 40, 0.1);
   font-size: 1.2rem;
-  color: #114B5F;
-">
+  ">
   <b>We currently do not have any openings but open to collaborations</b>
   Read more details <a href="/openings" style="color:#1E7A73; text-decoration:underline;">here</a>,
   and feel free to reach out to Yamba via email to discuss potential research projects and the application process.
