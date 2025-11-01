@@ -7,3 +7,15 @@
   "minima/initialize";
 
 @import "bibere";
+
+/* --- Custom overrides --- */
+
+/* Make the main site title (Climate and Health Group) white */
+.site-title {
+  color: white !important;
+}
+
+/* (Optional) also make the site description white */
+.site-description {
+  color: white !important;
+}
