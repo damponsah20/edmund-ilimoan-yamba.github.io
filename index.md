@@ -5,7 +5,14 @@ list_title: 'news'
 ---
 
 
-<div style=" background-color: $lm-background-color; border: 2px solid #006B3F; padding: 20px; margin-top: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(41, 39, 40, 0.1); font-size: 1.2rem;">
+<div style=" 
+background-color: $lm-background-color; 
+border: 2px solid #006B3F; 
+padding: 20px; 
+margin-top: 20px; 
+border-radius: 10px; 
+box-shadow: 0 4px 8px rgba(41, 39, 40, 0.1); 
+font-size: 1.2rem;">
   <b>We currently do not have any openings but open to collaborations.</b>
   Read more details <a href="/openings">here</a>, and feel free to reach out to <b>Dr. Edmund Ilimoan Yamba</b> via email to discuss potential research projects and opportunities.
 </div>
@@ -23,7 +30,7 @@ list_title: 'news'
       <a href='/research' style='color:#A27D23;'>sustainable development</a>.
       <br/><br/>
       We use climate data analysis, satellite remote sensing, and modeling techniques to understand how 
-      climate extremes—such as heatwaves and floods—affect public health and ecosystems.
+      climate extremes such as heatwaves and floods affect public health and ecosystems.
       <br/><br/>
       Learn more about our ongoing projects <a href='/research'>here</a>, or click the icons below to explore our focus areas.
     </p>
