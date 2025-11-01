@@ -40,7 +40,7 @@ pagination:
   per_page: 5
   permalink: '/page/:num/'
 
-author:Edmund Ilimoan Yamba
+author: Edmund Ilimoan Yamba
 
 collections:
   news:
