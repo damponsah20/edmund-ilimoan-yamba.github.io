@@ -8,16 +8,16 @@ current_position: |
   <em>Kwame Nkrumah University of Science and Technology (KNUST)</em> <br/>
   Private Mail Bag, University Post Office <br/>
   Kumasi, Ghana
-phd:Ph.D., Meteorology and Climate Science, <em>University of Cologne, Germany</em>
-ms:M.Sc., Geophysics, <em>Kwame Nkrumah University of Science and Technology (KNUST)</em>
-bs:B.Sc., Physics, <em>Kwame Nkrumah University of Science and Technology (KNUST)</em>
-importance:1
-img:"assets/img/Yamba-Picture.jpg"
-orcid:https://orcid.org/0000-0002-0486-9921 
-google_scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=Br4DbcIAAAAJ&hl=en&oi=ao)
-researchgate: [https://www.researchgate.net/](https://www.researchgate.net/profile/Edmund-Yamba-2)
-linkedin: [https://www.linkedin.com/](https://www.linkedin.com/in/edmund-ilimoan-yamba-3186945a/?originalSubdomain=gh)
-cv:"/assets/docs/Yamba_CV.pdf"
+phd: Ph.D., Meteorology and Climate Science, <em>University of Cologne, Germany</em>
+ms: M.Sc., Geophysics, <em>Kwame Nkrumah University of Science and Technology (KNUST)</em>
+bs: B.Sc., Physics, <em>Kwame Nkrumah University of Science and Technology (KNUST)</em>
+importance: 1
+img: "/assets/img/Yamba-Picture.jpg"
+orcid: "https://orcid.org/0000-0002-0486-9921"
+google_scholar: "https://scholar.google.com/citations?user=Br4DbcIAAAAJ&hl=en&oi=ao"
+researchgate: "https://www.researchgate.net/profile/Edmund-Yamba-2"
+linkedin: "https://www.linkedin.com/in/edmund-ilimoan-yamba-3186945a/?originalSubdomain=gh"
+cv: "/assets/docs/Yamba_CV.pdf"
 ---
 Dr. **Edmund Ilimoan Yamba** is a Senior Lecturer and Research Scientist in the Department of Meteorology and Climate Science at the **Kwame Nkrumah University of Science and Technology (KNUST)**, Kumasi, Ghana. He holds a **Bachelor of Science (BSc)** degree in Physics and a **Master of Science (MSc)** degree in Geophysics, both from KNUST. He earned his **Doctorate (PhD)** in Meteorology and Climate Science from the **University of Cologne, Germany**. Since joining the Department in January 2018, Dr. Yamba has played a pivotal role in teaching, research, and community service. He currently serves as the **Examination Officer** and **Postgraduate Studies Coordinator** for the Department.  
 
@@ -36,7 +36,7 @@ He is actively engaged in several **high-impact research projects** addressing g
 - 📱 **Co-Principal Investigator (Co-PI)**, *Enhancing Healthcare Accessibility and Communication in Underserved Communities through a Mobile Application (mHealth)* — *February 2024 to August 2025*.  
   Focus: Improving healthcare delivery and accessibility through digital innovation.
 
-Dr. Yamba’s contributions to academia and research are well-documented through his numerous **publications**, accessible via his [Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=Br4DbcIAAAAJ&hl=en&oi=ao)) and [ResearchGate]([https://www.researchgate.net/](https://www.researchgate.net/profile/Edmund-Yamba-2)) profiles.  
+Dr. Yamba’s contributions to academia and research are well-documented through his numerous **publications**, accessible via his [Google Scholar](https://scholar.google.com/citations?user=Br4DbcIAAAAJ&hl=en&oi=ao) and [ResearchGate](https://www.researchgate.net/profile/Edmund-Yamba-2) profiles.  
 
 His life philosophy centers on using his expertise to **lead positive change** and **mentor the next generation** of critical thinkers and innovators. He strongly believes in the **power of collaboration** to foster impactful and sustainable solutions in public health and climate science.  
 
