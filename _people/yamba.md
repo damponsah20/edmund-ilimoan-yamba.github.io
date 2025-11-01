@@ -12,7 +12,7 @@ phd: Ph.D., Meteorology and Climate Science, <em>University of Cologne, Germany<
 ms: M.Sc., Geophysics, <em>Kwame Nkrumah University of Science and Technology (KNUST)</em>
 bs: B.Sc., Physics, <em>Kwame Nkrumah University of Science and Technology (KNUST)</em>
 importance: 1
-img: "/assets/img/yamba.jpg"
+img:"/assets/img/yamba.jpg"
 orcid:https://orcid.org/0000-0002-0486-9921 
 google_scholar: [https://scholar.google.com/](https://scholar.google.com/citations?user=Br4DbcIAAAAJ&hl=en&oi=ao)
 researchgate: [https://www.researchgate.net/](https://www.researchgate.net/profile/Edmund-Yamba-2)
