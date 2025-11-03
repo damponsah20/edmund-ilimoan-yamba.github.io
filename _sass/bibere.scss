@@ -96,6 +96,21 @@ $black:         #000000;
   color: $black;
 }
 
+/* Highlighted author style for Edmund I. Yamba */
+.highlighted-author {
+  color: #b30000;   /* professional dark red */
+  font-weight: bold;
+}
+
+.highlighted-author a {
+  color: #b30000;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.highlighted-author a:hover {
+  color: #800000;   /* slightly darker on hover */
+}
 
 /* .link a {
   display: inline-block;
@@ -116,3 +131,4 @@ $black:         #000000;
 .details-panel-body:after {
   content: "";
 } */
+
