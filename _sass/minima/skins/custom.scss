@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+// Example: clean, bright theme
+$background-color: #ffffff;
+$text-color: #1a1a1a;
+$link-color: #0056d6;
+$link-hover-color: #e63946;
+$header-color: #222222;
+$accent-color: #d62828;
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+}
+
+a {
+  color: $link-color;
+  &:hover {
+    color: $link-hover-color;
+  }
+}
+
+.site-header {
+  background-color: $accent-color;
+  color: white;
+}
