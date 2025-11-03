@@ -27,12 +27,12 @@ github_username: yamba
 orcid: 0000-0002-0486-9921
 
 # Build settings
-theme: minima
+theme: null
 plugins:
   - jekyll-feed
 
 minima:
-  skin: auto
+  skin: classic
   date_format: "%Y %b %-d"
 
 pagination: 
