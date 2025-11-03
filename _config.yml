@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Climate and Health Group
+title: Climate and Health Lab
 email: eiyamba@knust.edu.gh
 description: 'PI: Edmund Ilimoan Yamba <br/> Department of Meteorology and Climate Science<br/>Kwame Nkrumah University of Science and Technology'
 baseurl: "/" # the subpath of your site, e.g. /blog
