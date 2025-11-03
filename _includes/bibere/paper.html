@@ -5,13 +5,19 @@
     {%- endcapture -%}
     <li id="{{ clean_id }}">
         <!-- Author -->
+        {%- assign highlight_name = "Edmund I. Yamba" -%}
+        {%- assign highlight_lastname = "Yamba" -%}
+
         {%- for a in paper.authors -%}
             {%- assign author = site.data.bibere.authors[a] -%}
-            {%- if a == include.mainAuthor -%}
+            {%- if a == highlight_name or a contains highlight_lastname -%}
+                {%- assign authorClass = "highlighted-author" -%}
+            {%- elsif a == include.mainAuthor -%}
                 {%- assign authorClass = "mainAuthor" -%}
             {%- else -%}
                 {%- assign authorClass = "author" -%}
             {%- endif -%}
+
             <span class="{{ authorClass }}">
             {%- if author -%}
                 {%- if author.website -%}
@@ -23,34 +29,42 @@
                 {{ a }}
             {%- endif -%}
             </span>
+
             {%- if forloop.last == true -%}
                 .&nbsp;
             {%- else -%}
                 ,&nbsp;
             {%- endif -%}
         {%- endfor -%}
+
         <!-- Title -->
         {%- assign clean_title = paper.title | replace: "}", '' | strip_newlines -%}
         <span class="title">{{ clean_title | replace: "{", '' }}.</span>
+
         <!-- Venue -->
         <span class="venue">{{ paper.venue }}&nbsp;</span>
+
         <!-- Year -->
         <span class="year">{{ paper.year }}.&nbsp;</span>
+
         <!-- DOI -->
-        <span>{{paper.doi}}</span>
+        <span>{{ paper.doi }}</span>
+
         <!-- Links -->
         [
         {%- if paper.links -%}
             {%- for item in paper.links -%} 
-                <a href="{{item.link}}">{{item.name}}</a>
+                <a href="{{ item.link }}">{{ item.name }}</a>
             {%- endfor -%}
-        {%- endif -%}]
+        {%- endif -%}
+        ]
+
         <!-- Abstract -->
         {%- if paper.abstract -%}
         &nbsp;<a class="collapse-clicker" onclick="$('#{{ clean_id }}_abstract').slideToggle(200)">Abstract</a>,
         {%- endif -%}
     </li>
 {%- else -%}
-    <p class="text-danger">Paper with id {{include.pid}} not found!</p>
+    <p class="text-danger">Paper with id {{ include.pid }} not found!</p>
     {{ error.standard_error }}
 {%- endif -%}
