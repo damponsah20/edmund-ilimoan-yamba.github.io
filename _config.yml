@@ -14,9 +14,9 @@ orcid: 0000-0002-0486-9921
 # ------------------------------------------
 # Theme and appearance
 # ------------------------------------------
-theme: minima  # 
+theme: minima
 minima:
-  skin: classic
+  skin: custom
   date_format: "%Y %b %-d"
 
 # ------------------------------------------
