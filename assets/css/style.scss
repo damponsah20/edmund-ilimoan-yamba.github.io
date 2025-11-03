@@ -19,3 +19,14 @@
 .site-description {
   color: white !important;
 }
+
+/* Make the header navigation links white */
+.site-nav .page-link {
+  color: white !important;
+}
+
+/* Optional: Change link color when hovering */
+.site-nav .page-link:hover {
+  color: #A8E6CF !important; /* light green hover effect */
+}
+
