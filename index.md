@@ -21,8 +21,8 @@ font-size: 1.2rem;">
   <!-- Text block -->
   <div style="flex: 0 0 35%; padding-right: 10px;">
     <p>
-      Welcome to the <b>Climate and Health Group</b>! We are led by
-      <a href="/people/yamba">Dr. Edmund Ilimoan Yamba</a> at the
+      Welcome to the <b>Climate and Health Lab</b>! We are led by
+      <a href="/people/yamba">Dr. Yamba</a> at the
       <a href="https://www.knust.edu.gh/">Kwame Nkrumah University of Science and Technology</a> (KNUST).
       <br/><br/>
       Our research explores the intersection of <a href='/research' style='color:#006B3F;'>climate variability</a>, 
