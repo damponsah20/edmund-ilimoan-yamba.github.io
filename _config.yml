@@ -27,9 +27,11 @@ github_username: yamba
 orcid: 0000-0002-0486-9921
 
 # Build settings
+# Build settings
 theme: null
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 minima:
   skin: classic
