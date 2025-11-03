@@ -6,8 +6,8 @@ email: eiyamba@knust.edu.gh
 description: >
   PI: Edmund Ilimoan Yamba <br/> Department of Meteorology and Climate Science <br/>
   Kwame Nkrumah University of Science and Technology
-baseurl: "" # leave empty for user.github.io sites
-url: "https://yamba.github.io"
+baseurl: ""  # leave empty for user.github.io sites
+url: "https://edmund-ilimoan-yamba.github.io"
 github_username: yamba
 orcid: 0000-0002-0486-9921
 
@@ -15,9 +15,7 @@ orcid: 0000-0002-0486-9921
 # Theme and appearance
 # ------------------------------------------
 theme: minima
-minima:
-  skin: custom
-  date_format: "%Y %b %-d"
+# (do not add "minima:" block or "skin:" — GitHub Pages locks theme version)
 
 # ------------------------------------------
 # Plugins supported by GitHub Pages
