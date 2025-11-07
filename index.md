@@ -39,7 +39,7 @@ font-size: 1.2rem;">
   <!-- Image block -->
   <div style="flex: 0 0 55%; display: flex; justify-content: flex-start;">
     <a href="/research" style="display: block; width: 100%;">
-      <img src="/assets/img/clouds.svg" style="width: 100%; height: auto;" alt="Climate Image">
+      <img src="/assets/img/Chumanhealth.svg" style="width: 100%; height: auto;" alt="Climate Image">
     </a>
   </div>
 
