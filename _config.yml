@@ -89,6 +89,6 @@ header_pages:
   - index.md
   - research.md
   - people.md
- # - openings.md
+  - openings.md
   - publications.md
- # - news.md
+  - news.md
