@@ -1,46 +1,51 @@
-# ------------------------------------------
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
-# ------------------------------------------
-title: "Climate and Health Lab"
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Climate and Health Lab
 email: eiyamba@knust.edu.gh
-description: >
-  PI: Edmund Ilimoan Yamba <br/> Department of Meteorology and Climate Science <br/>
-  Kwame Nkrumah University of Science and Technology
-baseurl: ""  # leave empty for user.github.io sites
-url: "https://edmund-ilimoan-yamba.github.io"
+description: 'PI: Edmund Ilimoan Yamba <br/> Department of Meteorology and Climate Science<br/>Kwame Nkrumah University of Science and Technology'
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://yamba.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: yamba
 orcid: 0000-0002-0486-9921
 
-# ------------------------------------------
-# Theme and appearance
-# ------------------------------------------
+# Build settings
 theme: minima
-# (do not add "minima:" block or "skin:" — GitHub Pages locks theme version)
-
-# ------------------------------------------
-# Plugins supported by GitHub Pages
-# ------------------------------------------
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
 
-# ------------------------------------------
-# Author information
-# ------------------------------------------
-author: "Edmund Ilimoan Yamba"
+minima:
+  skin: auto
+  date_format: "%Y %b %-d"
 
-# ------------------------------------------
-# Pagination settings
-# ------------------------------------------
-paginate: 5
-paginate_path: "/page:num/"
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
 
-# ------------------------------------------
-# Collections (custom folders)
-# ------------------------------------------
+author: Edmund Ilimoan Yamba
+
 collections:
   news:
+    defaults:
+      layout: post
     output: true
     permalink: /news/:path/
   projects:
@@ -50,22 +55,36 @@ collections:
     output: true
     permalink: /people/:path/
 
-# ------------------------------------------
-# Announcements & latest posts
-# ------------------------------------------
 announcements:
   enabled: true
-  scrollable: true
-  limit: 5
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the _news folder
 
 latest_posts:
   enabled: true
-  scrollable: true
-  limit: 3
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 
-# ------------------------------------------
-# Header pages (menu navigation)
-# ------------------------------------------
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
 header_pages:
   - index.md
   - research.md
@@ -73,13 +92,3 @@ header_pages:
   - openings.md
   - publications.md
   - news.md
-
-# ------------------------------------------
-# Exclude unnecessary files from build
-# ------------------------------------------
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-  - README.md
