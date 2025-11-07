@@ -6,7 +6,6 @@ current_position: |
   Senior Lecturer / Research Scientist <br/>
   <em>Department of Meteorology and Climate Science</em> <br/>
   <em>Kwame Nkrumah University of Science and Technology (KNUST)</em> <br/>
-  Private Mail Bag, University Post Office <br/>
   Kumasi, Ghana
 phd: Ph.D., Meteorology and Climate Science, <em>University of Cologne, Germany</em>
 ms: M.Sc., Geophysics, <em>Kwame Nkrumah University of Science and Technology (KNUST)</em>
