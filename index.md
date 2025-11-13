@@ -46,6 +46,15 @@ font-size: 1.2rem;">
   <!-- Spacer -->
   <div style="flex: 0 0 5%;"></div>
 </div>
+<!-- Group Photo Section -->
+<div style="text-align: center; margin: 40px auto;">
+  <img src="/assets/img/labpicture.jpg" 
+       alt="Climate and Health Lab Group Photo" 
+       style="width: 80%; max-width: 900px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <p style="font-size: 1.1rem; color: #444; margin-top: 10px;">
+    The Climate and Health Lab team, Department of Meteorology and Climate Science, KNUST
+  </p>
+</div>
 
 <!-- Bottom Section -->
 <div style="display: flex; justify-content: space-between;">
